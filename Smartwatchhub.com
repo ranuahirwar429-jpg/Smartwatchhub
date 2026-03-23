@@ -1,2 +1,0 @@
-# Smartwatchhub
-Smartwatch website
